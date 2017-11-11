@@ -1,0 +1,18 @@
+name: cs231n
+dependencies:
+  - python=2.7
+  - notebook
+  - numpy
+  - Cython
+  - pillow
+  - matplotlib
+  - scipy
+  - scikit-image
+  # generally useful libs that are nice to have...
+  - toolz
+  - h5py
+  - pandas
+  - scikit-learn
+  - pip
+#  - pip:
+      #- ...
